@@ -17,7 +17,6 @@ Java Web开发、分布式架构研究，知识分享平台，物联网ITTO平�
 Blog平台汇总
 单片机有关的大学时玩的2019年注册
 http://www.51hei.com/bbs    用户名：536280
-![img.png](static/img/img.png)
 ------
 
 
