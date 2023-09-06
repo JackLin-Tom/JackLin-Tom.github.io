@@ -2,7 +2,7 @@
 
 主要是各个平台的汇总，以及学习历程记录
 
-------
+***
 <div align=center>关于我：linj27768@gmail.com</div>
 
 专注于：
@@ -15,14 +15,17 @@ Java Web开发、分布式架构研究，知识分享平台，物联网ITTO平�
 搞过UID ，CUID射频卡
 ***
 Blog平台汇总
-单片机有关的大学时玩的2019年注册
+单片机有关的大学时玩的2019年注册（平台活跃度不大好停）
 http://www.51hei.com/bbs    用户名：536280
+
 CSND
 https://blog.csdn.net/qq_44925434
 解析一些比较出名的开源框架
-facebook :Lin Jack
+
+facebook:Lin Jack
 可能后面会了解一些物流方面的
-------
+
+
 
 
 
